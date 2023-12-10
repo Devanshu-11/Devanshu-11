@@ -1,6 +1,10 @@
 # 💫 About Me:
 
-I'm currently working on web projects and practicing DSA questions.<br>I want to contribute to open source and looking for mentorship.<br>Always ready to help with your problems.<br>Also Solved Around 248+ questions on DSA including Leetcode and codeforces
+- 💬 Ask me about **Competitive programming and data structures and algorithms.**
+
+- 📫 How to reach me **devanshukansal11@gmail.com**
+
+- ⚡ Fun fact **I love solving coding problems.**
 
 #  Trophy :
 
